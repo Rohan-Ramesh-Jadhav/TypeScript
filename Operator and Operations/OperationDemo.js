@@ -4,9 +4,6 @@ var DataClass = /** @class */ (function () {
     function DataClass() {
         this.val1 = 10;
         this.val2 = 20;
-        this.string1 = 'Hello';
-        this.string2 = 'World!';
-        this.array1 = [1, 2, 3, 4, 5];
     }
     return DataClass;
 }());
