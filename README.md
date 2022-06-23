@@ -6,3 +6,4 @@
 - Conditional Usage is the folder having files related to conditional statments and switch.
 - Looping statments folder has the files with loopings in ts.
 - Functions has the details of utilizing all ways of functions.
+- Tuples shows how to use hetroginus list.
