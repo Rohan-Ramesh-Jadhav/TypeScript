@@ -96,21 +96,21 @@ tagData = tagData + '\n**Switch Case**';
 let ch = '3';
 
 switch(ch){
-    case '1' : {tagData + '\n Day is Monday';
+    case '1' : {tagData = tagData + '\n Day is Monday';
              break;}
-    case '2' : {tagData + '\n Day is Tuesday';
+    case '2' : {tagData = tagData + '\n Day is Tuesday';
              break;}
-    case '3' : {tagData + '\n Day is Wednasday';
+    case '3' : {tagData = tagData + '\n Day is Wednasday';
              break;}
-    case '4' : {tagData + '\n Day is Thursday';
+    case '4' : {tagData = tagData + '\n Day is Thursday';
              break;}
-    case '5' : {tagData + '\n Day is Friday';
+    case '5' : {tagData = tagData + '\n Day is Friday';
              break;}
-    case '6' : {tagData + '\n Day is Saturday';
+    case '6' : {tagData = tagData + '\n Day is Saturday';
              break;}
-    case '7' : {tagData + '\n Day is Sunday';
+    case '7' : {tagData = tagData + '\n Day is Sunday';
              break;}
-    default : {tagData + '\n Invalid';
+    default : {tagData = tagData + '\n Invalid';
               break;}         
 }
 

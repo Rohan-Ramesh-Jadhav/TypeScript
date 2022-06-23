@@ -63,35 +63,35 @@ tagData = tagData + '\n**Switch Case**';
 var ch = '3';
 switch (ch) {
     case '1': {
-        tagData + '\n Day is Monday';
+        tagData = tagData + '\n Day is Monday';
         break;
     }
     case '2': {
-        tagData + '\n Day is Tuesday';
+        tagData = tagData + '\n Day is Tuesday';
         break;
     }
     case '3': {
-        tagData + '\n Day is Wednasday';
+        tagData = tagData + '\n Day is Wednasday';
         break;
     }
     case '4': {
-        tagData + '\n Day is Thursday';
+        tagData = tagData + '\n Day is Thursday';
         break;
     }
     case '5': {
-        tagData + '\n Day is Friday';
+        tagData = tagData + '\n Day is Friday';
         break;
     }
     case '6': {
-        tagData + '\n Day is Saturday';
+        tagData = tagData + '\n Day is Saturday';
         break;
     }
     case '7': {
-        tagData + '\n Day is Sunday';
+        tagData = tagData + '\n Day is Sunday';
         break;
     }
     default: {
-        tagData + '\n Invalid';
+        tagData = tagData + '\n Invalid';
         break;
     }
 }
