@@ -7,4 +7,5 @@
 - Looping statments folder has the files with loopings in ts.
 - Functions has the details of utilizing all ways of functions.
 - Tuples shows how to use hetroginus list.
-- The Unions has the details of utilizing Unions in ts
+- The Unions has the details of utilizing Unions in ts.
+- The Interface file will show how to use interface in ts.
